@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '9699'
     url: http://www.gutenberg.org/2009/agents/9699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21065#The-Log-of-a-Privateersman
 gutenberg_issued: '2007-04-13'
 gutenberg_type: Text
 identifiers:
